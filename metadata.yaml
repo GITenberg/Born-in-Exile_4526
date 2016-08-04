@@ -1,0 +1,31 @@
+_repo: Born-in-Exile_4526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: Leaving his lowly Midlands home to pursue his career as a journalist
+  among the free-thinkers of London, Godwin Peak's origins and poverty hinder him
+  at every turn. Publishing an article attacking the hypocrisy of the Victorian Church
+  gives him his break. His future dims, however, when he falls catastrophically in
+  love with the devout Sidwell Warricombe.
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Born in Exile
+url: http://www.gutenberg.org/ebooks/4526
